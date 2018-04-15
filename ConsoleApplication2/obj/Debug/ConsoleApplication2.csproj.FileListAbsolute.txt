@@ -1,0 +1,6 @@
+D:\С#\FirstProject\ConsoleApplication2\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe
+D:\С#\FirstProject\ConsoleApplication2\ConsoleApplication2\bin\Debug\ConsoleApplication2.pdb
+D:\С#\FirstProject\ConsoleApplication2\ConsoleApplication2\obj\Debug\ConsoleApplication2.csprojResolveAssemblyReference.cache
+D:\С#\FirstProject\ConsoleApplication2\ConsoleApplication2\obj\Debug\ConsoleApplication2.csproj.CoreCompileInputs.cache
+D:\С#\FirstProject\ConsoleApplication2\ConsoleApplication2\obj\Debug\ConsoleApplication2.exe
+D:\С#\FirstProject\ConsoleApplication2\ConsoleApplication2\obj\Debug\ConsoleApplication2.pdb
