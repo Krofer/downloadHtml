@@ -50,7 +50,7 @@ namespace ConsoleApplication2.Getters
         }
         
         /// <summary>
-        /// Метод отправляет запрос к странице
+        /// Метод получает HTML страницы
         /// </summary>
         /// <param name="link">URL куда посылать запрос</param>
         /// <returns>HTML код страницы</returns>
