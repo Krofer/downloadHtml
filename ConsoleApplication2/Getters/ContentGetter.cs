@@ -12,6 +12,11 @@ namespace ConsoleApplication2.Getters
 {
     internal class ContentGetter
     {
+        /// <summary>
+        /// С помощью данного метода получаем директиву crawl-delay
+        /// </summary>
+        /// <param name="link">Ссылка на robots.txt</param>
+        /// <returns></returns>
         public static async Task<string> GetCrawlDelay(string link)
         {
             var html = "";
